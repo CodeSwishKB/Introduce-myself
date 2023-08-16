@@ -5,11 +5,11 @@ Hey there! 👋 I'm Kyle, you can call me @CodeswishJS in the digital realm. I'm
 I'm a passionate coder with a heart that beats for JavaScript. 🚀 My journey into the realm of coding began when I stumbled upon the captivating world of web development. Since then, I've been on an exciting adventure, tinkering with lines of code and turning my ideas into digital realities.
 
 ## Coding and JavaScript  
-👨‍💻 Currently, I'm diving deep into the magical world of JavaScript. From scripting interactive web pages to building robust backend systems, there's something enchanting about the way JavaScript brings life to the digital landscape.
+👨‍💻 Currently, I'm diving deep into the magical world of JavaScript. From scripting interactive web pages to building robust front and backend systems, there's something enchanting about the way JavaScript brings life to the digital landscape.
 
 🌱 I'm in a constant state of learning and growth, always eager to enhance my coding skills and stay up-to-date with the latest trends and techniques. If you have any tips, tricks, or mind-blowing JavaScript hacks, don't hesitate to share! Let's learn together and create some digital magic. ✨
 
-##Hoops and NBA  
+## Hoops and NBA  
 When I'm not immersed in code, you'll likely find me on the basketball court, living out my hoop dreams. 🏀 I'm an ardent lover of the game, and I never miss a chance to shoot some hoops or catch an NBA game especially the Lakers!!. Whether it's the thrill of a last-minute three-pointer or the elegance of a perfectly executed slam dunk, basketball fuels my passion and keeps me moving.
 
 ## Jogging and Beyond  
