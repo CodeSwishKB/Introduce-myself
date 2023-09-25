@@ -26,5 +26,5 @@ I'm always excited to meet fellow coding enthusiasts, basketball fanatics, and a
 
 Thanks for stopping by, and remember: Life's a game, so let's play it to the fullest—both on and off the code editor! 🚀🏀🏃‍♂️
 
-Catch you on the digital court,  
+Catch you on the digital court at tara na magcodee,   
 Kyle (@CodeswishJS)
